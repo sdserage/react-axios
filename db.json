@@ -11,12 +11,30 @@
     },
     {
       "id": 2,
-      "first": "Sarah",
-      "last": "Croft",
-      "status": "No repairs in progress",
-      "email": "sarahcroft@gmail.com",
-      "phone": "(325)-345-2352",
-      "log": "This\nis\nanother\ntest\nlog"
+      "first": "Sara",
+      "last": "Crof",
+      "status": "No",
+      "email": "sarahcroft@gmail.co",
+      "phone": "(325)-345-235",
+      "log": "This\nis\ntest\nlog"
+    },
+    {
+      "first": "gfdssg",
+      "last": "fsgdgfsd",
+      "email": "sdsggfsd",
+      "phone": "dsdfsggfd",
+      "status": "New Customer",
+      "log": "",
+      "id": 4
+    },
+    {
+      "first": "dsgfgfds",
+      "last": "dfgsdggdfs",
+      "email": "dsgddfg",
+      "phone": "sdgsfdfgdgsfdsggf",
+      "status": "New Customer",
+      "log": "",
+      "id": 5
     }
   ]
 }
